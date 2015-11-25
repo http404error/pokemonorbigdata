@@ -1,12 +1,12 @@
 [{
-  "name": "Crebase",
+  "name": "Avalugg",
   "type": 0,
-  "text": "Crebase has the highest defense of all ice-type pokemon. Do no confuse with HBase, Couchbase, MeshBase, Graphbase or KirbyBase.",
+  "text": "Avalugg has the highest defense of all ice-type pokemon... which isn't saying that much, unfortunately.",
   "img": "crebase.png"
 }, {
   "name": "Tokutek",
   "type": 1,
-  "text": "Tokutek claim to improve MongoDB performance 20x. Unclear if this also mean lose 20x as many documents.",
+  "text": "Tokutek claim to improve MongoDB performance 20x. It is unclear whether this also means losing 20x as many documents.",
   "img": "tokutek.png"
 }, {
   "name": "Adabas",
@@ -16,7 +16,7 @@
 }, {
   "name": "Feebas",
   "type": 0,
-  "text": "Feebas require Swift Swim to get marvel scale.",
+  "text": "The inner beauty of the Feebas is unleashed if its Trainer truly believes in it.",
   "img": "feebas.png"
 }, {
   "name": "Azurill",
@@ -39,28 +39,28 @@
   "text": "Refer to lock-free architecture for SQL Server 2014. no to be confuse with Magneton the levitating Pokémon.",
   "img": "hekaton.jpg"
 }, {
-  "name": "Mukubird",
+  "name": "Staravia",
   "type": 0,
-  "text": "Mukubird flies around forests and fields in search of bug Pokémon. It stay within a huge flock.",
+  "text": "Staravia flies around forests and fields in search of bug Pokémon. It stay within a huge flock.",
   "img": "mukubird.png"
 }, {
   "name": "Summingbird",
   "type": 1,
-  "text": "This Twitter technology combines streaming, MapReduce, Scalding, Scala and Storm. Potential users must prove they are hipster before allowed to download.",
+  "text": "This Twitter technology combines streaming, MapReduce, Scalding, Scala and Storm. Potential users must prove they are hipsters before they are allowed to download.",
   "img": "summingbird.png"
 }, {
   "name": "Akiban",
   "type": 1,
-  "text": "Touted as SQL database with object structured storage, Akiban was recently acquired by another database vendor you never have heard of.",
+  "text": "Touted as SQL database with object structured storage, Akiban was recently acquired by FoundationDB, another database vendor you never have heard of.",
   "img": "akiban.jpg"
 }, {
   "name": "Arbok",
   "type": 0,
-  "text": "Despite report to the contrary, Arbok no does evolve into Seviper.",
+  "text": "Despite reports to the contrary, Arbok does not evolve into Seviper.",
   "img": "arbok.png"
 }, {
   "name": "Arvados",
   "type": 1,
-  "text": "Not to be confused with Ariados.  Spins a web of microservices around unsuspecting sysadmins.",
+  "text": "Not to be confused with Ariados. Spins a web of microservices around unsuspecting sysadmins.",
   "img": "arvados.png"
 }]
